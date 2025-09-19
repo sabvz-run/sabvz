@@ -15,8 +15,3 @@ Sou estudante de *Engenharia da Computação* e *Desenvolvimento de Sistemas*, a
 
 ---
 
-## Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabvz-run&layout=compact" alt="Top Languages" />
-</p>
